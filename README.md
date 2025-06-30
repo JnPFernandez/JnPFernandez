@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="foto.png" width="200"/>
+  <img src="foto (2).png" width="200"/>
 </p>
 
 ## Who am I?
