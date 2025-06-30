@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-  <img src="foto (2).png" width="200"/>
-</p>
+![Mi foto](foto (2).jpg)
 
 ## Who am I?
 
