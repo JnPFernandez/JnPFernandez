@@ -3,6 +3,7 @@
 <p align="center">
   <img src="foto (2).png" style="width:100%;"/>
 </p>
+
 ## Who am I?
 
 Mi name is Juan Pablo Fernández. I´m a 22-years-old data enthusiast from Argentina, dedicated to the world of Data Science. 
