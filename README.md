@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
   <img src="foto (2).png" width="200"/>
 </p>
 
