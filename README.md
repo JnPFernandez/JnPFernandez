@@ -30,3 +30,5 @@ Thanks to the Henry Bootcamp and several independent courses, I've developed str
 Mail: juanpablofernandez132@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/jpfv2/
+
+Youtube: https://www.youtube.com/@JuanPabloFern%C3%A1ndez-e6e
