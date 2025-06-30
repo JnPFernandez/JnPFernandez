@@ -28,4 +28,5 @@ Thanks to the Henry Bootcamp and several independent courses, I've developed str
 ## Always open to new projects and challenges🚀
 
 Mail: juanpablofernandez132@gmail.com
-LinkedIn: https://www.linkedin.com/in/juan-pablo-fern%C3%A1ndez-608a95217/
+
+LinkedIn: https://www.linkedin.com/in/jpfv2/
