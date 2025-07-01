@@ -23,7 +23,7 @@ My main goal is to translate numbers into accessible and meaningful insights for
 ## Tech Stack
 
 <p align="center">
-  <img src="Python-logo-notext.svg.png" style="width:100%;"/>
+  <img src="Python-logo-notext.svg.png" style="width:25%;"/>
 </p>
 
 ![Static Badge](https://img.shields.io/badge/SQL-darkblue) ![Static Badge](https://img.shields.io/badge/Power_BI-black?logo=tableau&labelColor=yellow) ![Static Badge](https://img.shields.io/badge/Tableau-white?labelColor=blue)
