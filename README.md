@@ -5,7 +5,8 @@
   <img src="foto (2).png" style="width:100%;"/>
 </p>
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F) ![Static Badge](https://img.shields.io/badge/Youtube-darkred?link=https%3A%2F%2Fwww.youtube.com%2F%40JuanPabloFern%25C3%25A1ndez-e6e)
+
 
 ## Who am I?
 
@@ -31,7 +32,3 @@ Thanks to the Henry Bootcamp and several independent courses, I've developed str
 ## Always open to new projects and challenges🚀
 
 Mail: juanpablofernandez132@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/jpfv2/
-
-Youtube: https://www.youtube.com/@JuanPabloFern%C3%A1ndez-e6e
