@@ -23,7 +23,8 @@ My main goal is to translate numbers into accessible and meaningful insights for
 ## What are my skills?
 
 Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
-• Python  <br>
+• Python  <br>![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+
 • SQL  <br>
 • PowerBI  <br>
 • Tableau  <br>
