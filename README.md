@@ -4,7 +4,8 @@
 <p align="center">
   <img src="foto (2).png" style="width:100%;"/>
 </p>
-![Static Badge][https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F]
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F)
 
 ## Who am I?
 
