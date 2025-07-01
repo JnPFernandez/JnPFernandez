@@ -25,7 +25,6 @@ My main goal is to translate numbers into accessible and meaningful insights for
 <p>
   <img src="Python-logo-notext.svg.png" style="width:25%;"/>
 </p>
-<p>
   <img src="descarga (1).png" style="width:25%;"/>
 </p>
 
