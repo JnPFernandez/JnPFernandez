@@ -20,14 +20,9 @@ I'm currently working on projects focused on data extraction, analysis, and proc
 
 My main goal is to translate numbers into accessible and meaningful insights for everyone. I genuinely enjoy this process and hope to turn it into a career. Right now, I believe this is what I want to do for the rest of my life. 
 
-## What are my skills?
+## Tech Stack
 
-Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
-• Python  <br>![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
-
-• SQL  <br>
-• PowerBI  <br>
-• Tableau  <br>
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-darkblue) ![Static Badge](https://img.shields.io/badge/Power_BI-grey?logo=powerbi) ![Static Badge](https://img.shields.io/badge/Tableau-white?logo=tableau)
 
 ## Feel free to reach out!
 ## Always open to new projects and challenges🚀
