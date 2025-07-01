@@ -22,7 +22,7 @@ My main goal is to translate numbers into accessible and meaningful insights for
 
 ## Tech Stack
 
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-darkblue) ![Static Badge](https://img.shields.io/badge/Power_BI-grey?logo=powerbi) ![Static Badge](https://img.shields.io/badge/Tableau-white?logo=tableau)
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-darkblue) ![Static Badge](https://img.shields.io/badge/Power_BI-white?logo=tableau&labelColor=yellow) ![Static Badge](https://img.shields.io/badge/Tableau-white?logo=tableau)
 
 ## Feel free to reach out!
 ## Always open to new projects and challenges🚀
