@@ -21,9 +21,7 @@ My main goal is to translate numbers into accessible and meaningful insights for
 
 ## Tech Stack
 <p align="left">
-  <img src="descarga (1).png" style="width:25%;"/>
-</p>
-<p align="left">
+  <img src="descarga (1).png" style="width:25%;"/> <p align="left">
   <img src="Python-logo-notext.svg.png" style="width:25%;"/>
 </p>
 Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
