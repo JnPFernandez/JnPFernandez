@@ -20,11 +20,11 @@ I'm currently working on projects focused on data extraction, analysis, and proc
 My main goal is to translate numbers into accessible and meaningful insights for everyone. I genuinely enjoy this process and hope to turn it into a career. Right now, I believe this is what I want to do for the rest of my life. 
 
 ## Tech Stack
-<p align="center">
-  <img src="descarga (1).png" style="width:100%;"/>
+<p align="left">
+  <img src="descarga (1).png" style="width:25%;"/>
 </p>
-<p align="center">
-  <img src="Python-logo-notext.svg.png" style="width:100%;"/>
+<p align="left">
+  <img src="Python-logo-notext.svg.png" style="width:25%;"/>
 </p>
 Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
 • Python  <br>
