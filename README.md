@@ -27,8 +27,8 @@ My main goal is to translate numbers into accessible and meaningful insights for
   <img src="2-1024x1024.webp" style="width:25%;"/>
 </p>
 Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
-• Python  <br>
 • SQL  <br>
+• Python  <br>
 • PowerBI  <br>
 • Tableau  <br>
 
