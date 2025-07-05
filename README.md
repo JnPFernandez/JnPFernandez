@@ -21,11 +21,11 @@ My main goal is to translate numbers into accessible and meaningful insights for
 
 ## Tech Stack
 <p align="left">
-  <img src="1200x630bb.png" style="width:25%;"/>
-  <img src="descarga (1).png" style="width:25%;"/>
-  <img src="Python-logo-notext.svg.png" style="width:20%;"/>
-  <img src="powerbi logo 1.avif" style="width:25%;"/>
-  <img src="2-1024x1024.webp" style="width:25%;"/> 
+  <img src="1200x630bb.png" style="width:20%;"/>
+  <img src="descarga (1).png" style="width:20%;"/>
+  <img src="Python-logo-notext.svg.png" style="width:16%;"/>
+  <img src="powerbi logo 1.avif" style="width:20%;"/>
+  <img src="2-1024x1024.webp" style="width:20%;"/> 
 </p>
 Thanks to the Henry Bootcamp and several independent courses, I've developed strong skills in:  <br>
 • SQL  <br>
