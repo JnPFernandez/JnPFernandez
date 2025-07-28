@@ -37,5 +37,5 @@ Thanks to the Henry Bootcamp and several independent courses, I've developed str
 ## Feel free to reach out!
 ## Always open to new projects and challenges🚀
 
-Mail: juanpablofernandez132@gmail.com
+Mail: juanpablofernandez132@gmail.com <br>
 Notion: https://www.notion.so/dc9c6d22f2ef4a86a177afb95869361c
